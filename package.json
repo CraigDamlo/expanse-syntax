@@ -1,7 +1,7 @@
 {
   "name": "expanse-syntax",
   "theme": "syntax",
-  "version": "0.3.3",
+  "version": "0.4.0",
   "description": "An Expanse themed syntax for writing Markdown in Atom.",
   "keywords": [
     "syntax",
