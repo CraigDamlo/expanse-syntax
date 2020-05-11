@@ -14,3 +14,6 @@
 ## 0.1.4 - Color fix
 * Removed unused color @wine
 * Made flat gutter colors
+
+## 0.1.5 - Gutter Fix
+* Gutter background and highlight text fixed
