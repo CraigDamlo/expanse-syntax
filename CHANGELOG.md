@@ -10,3 +10,7 @@
 
 ## 0.1.3 - Undo
 * Rolled back to 0.1.1 because 0.1.2 broke Atom
+
+## 0.1.4 - Color fix
+* Removed unused color @wine
+* Made flat gutter colors
