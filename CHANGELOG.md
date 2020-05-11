@@ -7,3 +7,6 @@
 ## 0.1.2 - Clean up
 * Color.less cleaned up
 * Replace marker colors set
+
+## 0.1.3 - Undo
+* Rolled back to 0.1.1 because 0.1.2 broke Atom
