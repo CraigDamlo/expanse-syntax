@@ -26,3 +26,6 @@
 
 ## 0.1.8 - Lighten/Darken removed
 * Removed the lighten/Darken colors to hard call outs
+
+## 0.2.0 - Everything close to good
+* Tweaked gutter colors
