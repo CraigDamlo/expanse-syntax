@@ -17,3 +17,6 @@
 
 ## 0.1.5 - Gutter Fix
 * Gutter background and highlight text fixed
+
+## 0.1.6 - Gutter Fix
+* Gutter colors changed to saturation and desaturation
