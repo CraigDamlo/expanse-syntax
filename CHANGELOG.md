@@ -29,3 +29,6 @@
 
 ## 0.2.0 - Everything close to good
 * Tweaked gutter colors
+
+## 0.2.1 - Sample Image
+* sample-text.png updated
