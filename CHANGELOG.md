@@ -20,3 +20,6 @@
 
 ## 0.1.6 - Gutter Fix
 * Gutter colors changed to saturation and desaturation
+
+## 0.1.7 - Gutter Fix 2.0
+* Saturation and desaturation don't seem to work in Atom
