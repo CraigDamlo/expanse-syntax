@@ -23,3 +23,6 @@
 
 ## 0.1.7 - Gutter Fix 2.0
 * Saturation and desaturation don't seem to work in Atom
+
+## 0.1.8 - Lighten/Darken removed
+* Removed the lighten/Darken colors to hard call outs
